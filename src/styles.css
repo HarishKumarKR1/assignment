@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input {
+  width: 20vw;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.employee {
+  display: relative;
+  width: 20vw;
+  height: 10vh;
+  top: 10%;
+  margin: 10px;
+  background-color: lightblue;
+}
